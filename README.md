@@ -2,7 +2,7 @@
 
 Code for the 2025 Hydroinformatics Class 
 
-TO contribute to this repo do the following 
+To contribute to this repo do the following 
 * write some code 
 * Commit with a good descriptve message
 
